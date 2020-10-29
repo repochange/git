@@ -8,7 +8,7 @@ public class KavaClass {
 
         Scanner scanner = new Scanner(System.in);
         
-        // privet
+        // hi
 
 
 
