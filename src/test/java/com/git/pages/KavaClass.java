@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class KavaClass {
     public static void main(String[] args) {
 
+
       
 
 
@@ -18,6 +19,15 @@ public class KavaClass {
         
         
         //5
+        Scanner scanner = new Scanner(System.in);
+
+        //6
+
+        //7
+
+        //9
+
+
 
 
 
