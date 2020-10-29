@@ -9,7 +9,10 @@ public class KavaClass {
         Scanner scanner = new Scanner(System.in);
 
         //i tut
-        
+
+
+        //kaka dela
+
         // hi
 
 
@@ -26,6 +29,13 @@ public class KavaClass {
 
 
 
+        //klkl
+
+
+
+
+
+        //sjdh
 
 
 
