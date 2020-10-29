@@ -16,6 +16,20 @@ public class KavaClass {
 
 
 
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Print jadfskn");
+
+
+        //1
+        //2
+
+
+
+
+
+
+
 
 
 
