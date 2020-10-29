@@ -1,23 +1,14 @@
 package com.git.pages;
 
 import java.sql.SQLOutput;
+import java.util.Scanner;
 
 public class KavaClass {
     public static void main(String[] args) {
 
-        System.out.println("print");
+        Scanner scanner = new Scanner(System.in);
 
 
-        // a tut toje nu
-
-        
-        //kdfn
-        
-        //4
-
-        //w
-
-        //t
 
 
 
