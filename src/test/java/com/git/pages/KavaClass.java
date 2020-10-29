@@ -1,10 +1,11 @@
 package com.git.pages;
 
+import java.sql.SQLOutput;
+
 public class KavaClass {
     public static void main(String[] args) {
-        // printing
-        
 
+        System.out.println("print");
 
 
         // a tut toje nu
@@ -13,14 +14,12 @@ public class KavaClass {
         //kdfn
         
         //4
-        
-        //5
 
         //w
 
         //t
 
-        //ll
+
 
 
 
