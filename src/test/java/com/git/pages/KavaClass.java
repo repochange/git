@@ -8,16 +8,7 @@ public class KavaClass {
         System.out.println("print");
 
 
-        // a tut toje nu
-
-        
-        //kdfn
-        
-        //4
-
-        //w
-
-        //t
+        //lets say something
 
 
 
