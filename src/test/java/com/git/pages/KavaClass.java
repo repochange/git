@@ -6,36 +6,18 @@ import java.util.Scanner;
 public class KavaClass {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
-
-        //i tut
-
-
-        //kaka dela
-
-        // hi
+      
 
 
         System.out.println("print");
-        //tut
+       //1
+        
+        //3
+        
+        //4
         
         
-        
-        
-        
-        
-        
-        /////45678
-
-
-
-        //klkl
-
-
-
-
-
-        //sjdh
+        //5
 
 
 
