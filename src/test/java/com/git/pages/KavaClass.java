@@ -7,5 +7,6 @@ public class KavaClass {
         System.out.println("Conflict");
         System.out.println("Hello Java");
         // a tut toje nu
+        // a nu
     }
 }
